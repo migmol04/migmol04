@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @migmol04
+# 👋 Hi, I’m @migmol04
 
 ---
 
@@ -17,6 +17,11 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /> **Python** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /> **Git** |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++" /> **C++** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud" /> **Google Cloud** |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" width="40" height="40" alt="Haskell" /> **Haskell** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" /> **NumPy** |
+
+---
+
+### 🧑‍💻 Languages in My Repositories
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=migmol04&layout=compact&theme=radical)
 
 ---
 
