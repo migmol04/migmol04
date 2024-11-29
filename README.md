@@ -23,7 +23,7 @@
 ### 📫 How to reach me:
 - 📧 Personal Email: [miguelmolinadelarosa@gmail.com](mailto:miguelmolinadelarosa@gmail.com)
 - 📧 University Email: [migmol04@ucm.es](mailto:migmol04@ucm.es)
-- 💼 LinkedIn: [LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/miguel-%C3%A1ngel-molina-de-la-rosa-10a728268))
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/miguel-%C3%A1ngel-molina-de-la-rosa-10a728268/)
 
 ---
 
