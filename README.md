@@ -23,6 +23,9 @@
 ### 🧑‍💻 GitHub Stats
 ![Miguel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=migmol04&show_icons=true&theme=radical)
 
+### 🌐 Languages in My Repositories
+The following statistics show the programming languages I’ve used across my repositories:
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=migmol04&layout=compact&theme=radical)
 
 
